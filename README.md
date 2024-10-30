@@ -75,7 +75,7 @@ The development and addition of new tools, techniques, and tutorials will follow
 
 **MALSuite** is licensed under a dual-license model:
 - **Non-Commercial License**: Free to use and modify for personal or educational purposes.
-- **Commercial Use**: Requires a separate commercial license. Contact me at [https://mohammadlotfi.com/] for details.
+- **Commercial Use**: Requires a separate commercial license. Contact me via [my website](https://mohammadlotfi.com/) for details.
 
 For full terms, please see the `LICENSE.md` file.
 
@@ -96,7 +96,7 @@ Contributions are always welcome! If you have a tool idea, a bug fix, or a tutor
 ## 📬 Contact
 
 For commercial inquiries, questions, or collaboration requests, please reach out via:
-- **Website**: [https://mohammadlotfi.com/]
-- **LinkedIn**: [https://www.linkedin.com/in/mohammadlotfia/]
+- **Website**: https://mohammadlotfi.com/
+- **LinkedIn**: https://www.linkedin.com/in/mohammadlotfia/
 
 **MALSuite** is here to make cybersecurity more accessible, efficient, and up-to-date. Enjoy exploring the tools, learning from the labs, and enhancing your cybersecurity skills with **MALSuite**!
