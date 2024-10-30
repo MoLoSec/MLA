@@ -14,4 +14,4 @@ To obtain a commercial license, please contact me via my [website](https://moham
 
 ## Disclaimer
 
-This software is provided "as-is" without warranty of any kind, express or implied.
+Any tool or software is provided "as-is" without warranty of any kind, express or implied.
