@@ -74,8 +74,8 @@ The development and addition of new tools, techniques, and tutorials will follow
 ## 📜 License
 
 **MLA** is licensed under a dual-license model:
-- **Non-Commercial License**: Free to use and modify for personal or educational purposes.
-- **Commercial Use**: Requires a separate commercial license. Contact me via [my website](https://mohammadlotfi.com/) for details.
+- **Non-Commercial License**: Free to use and modify for personal or educational purposes (credits must be given).
+- **Commercial Use**: Requires a separate commercial license. Contact me via [my website](https://mohammadlotfi.com/contact) for details.
 
 For full terms, please see the `LICENSE.md` file.
 
