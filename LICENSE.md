@@ -10,7 +10,7 @@ For details, see: https://creativecommons.org/licenses/by-nc/4.0/
 
 Commercial use of this project, including but not limited to selling, sublicensing, or distributing in any form for profit, requires a separate paid license.
 
-To obtain a commercial license, please contact me via my [website](https://mohammadlotfi.com/).
+To obtain a commercial license, please contact me via my [website](https://mohammadlotfi.com/contact).
 
 ## Disclaimer
 
