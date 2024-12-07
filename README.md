@@ -1,14 +1,14 @@
-# MoLoSec
+# MLA
 
-Welcome to **MoLoSec** – a comprehensive, up-to-date repository of tools, techniques, labs, and tutorials for penetration testing and cybersecurity. This project aims to address the gap in current resources by providing high-quality, optimized, and modern solutions for learners and professionals in the cybersecurity field.
+Welcome to **MLA** – a comprehensive, up-to-date repository of tools, techniques, labs, and tutorials for penetration testing and cybersecurity. This project aims to address the gap in current resources by providing high-quality, optimized, and modern solutions for learners and professionals in the cybersecurity field.
 
-Whether you’re a beginner interested in hacking basics or a seasoned professional looking for advanced techniques, **MoLoSec** will offer reliable, compatible, and effective tools.
+Whether you’re a beginner interested in hacking basics or a seasoned professional looking for advanced techniques, **MLA** will offer reliable, compatible, and effective tools.
 
 ---
 
 ## 🌟 Project Overview
 
-**MoLoSec** is an evolving suite of cybersecurity resources, focusing on real-world applications, challenges, and labs. Unlike many outdated resources, this project aims to provide:
+**MLA** is an evolving suite of cybersecurity resources, focusing on real-world applications, challenges, and labs. Unlike many outdated resources, this project aims to provide:
 
 - **Up-to-date tools**: All tools and scripts here will support the latest Python versions and popular cybersecurity platforms.
 - **Performance Optimization**: Designed for efficiency and speed, enabling effective and responsive workflows.
@@ -41,12 +41,12 @@ The project is not just a toolkit but a **showcase of my capabilities and dedica
 
 ## 🔧 Getting Started
 
-Each tool and resource within **MoLoSec** is designed to be as user-friendly as possible. However, prerequisites for certain tools may vary. Below is a quick guide to get you up and running:
+Each tool and resource within **MLA** is designed to be as user-friendly as possible. However, prerequisites for certain tools may vary. Below is a quick guide to get you up and running:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/MohammadLotfiA/MoLoSec.git
-   cd MoLoSec
+   https://github.com/MoLoSec/MLA.git
+   cd MLA
    ```
 
 2. **Install Requirements**:
@@ -73,7 +73,7 @@ The development and addition of new tools, techniques, and tutorials will follow
 
 ## 📜 License
 
-**MoLoSec** is licensed under a dual-license model:
+**MLA** is licensed under a dual-license model:
 - **Non-Commercial License**: Free to use and modify for personal or educational purposes.
 - **Commercial Use**: Requires a separate commercial license. Contact me via [my website](https://mohammadlotfi.com/) for details.
 
@@ -99,4 +99,4 @@ For commercial inquiries, questions, or collaboration requests, please reach out
 - **Website**: https://mohammadlotfi.com/
 - **LinkedIn**: https://www.linkedin.com/in/mohammadlotfia/
 
-**MoLoSec** is here to make cybersecurity more accessible, efficient, and up-to-date. Enjoy exploring the tools, learning from the labs, and enhancing your cybersecurity skills with **MoLoSec**!
+**MLA** is here to make cybersecurity more accessible, efficient, and up-to-date. Enjoy exploring the tools, learning from the labs, and enhancing your cybersecurity skills with **MLA**!
